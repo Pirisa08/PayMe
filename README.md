@@ -1,10 +1,10 @@
 # PayMe
-ชื่อ - นามสกุล (Full Name): Pirisa Kitichai
-รหัสนักศึกษา (Student ID): 6631503031 
-ชื่อแอป (App Name):PayMe 
-Framework ที่ใช้ (Framework Used): React Native  
-ลิงก์ GitHub Repository: [ใส่ลิงก์ที่นี่ | Insert link here]
-ลิงก์ไฟล์ติดตั้ง (APK/IPA): [ใส่ลิงก์ที่นี่ | Insert link here]
+ชื่อ - นามสกุล (Full Name): Pirisa Kitichai<br>
+รหัสนักศึกษา (Student ID): 6631503031 <br>
+ชื่อแอป (App Name):PayMe <br>
+Framework ที่ใช้ (Framework Used): React Native <br>
+ลิงก์ GitHub Repository: [ใส่ลิงก์ที่นี่ | Insert link here] <br>
+ลิงก์ไฟล์ติดตั้ง (APK/IPA): [(https://expo.dev/accounts/pirisa/projects/PayMe/builds/ae335c1c-6d29-4229-a156-6ad59fbbc625)] <br>
 
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts)
 1.1 ผู้ใช้งานเป้าหมาย | User Personas
