@@ -38,7 +38,7 @@ Persona 2:
 
 
 1.4 การไหลของผู้ใช้งาน | User Flow
-Open App → Bill List → Choose Bill to see the deatail → add person → Payment History 
+Open App → Bill List → Choose Bill to see the detail → add person → Payment History 
 
 2. การพัฒนาแอป | App Implementation (4 คะแนน / 4 pts)
 2.1 รายละเอียดการพัฒนา | Development Details
