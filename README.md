@@ -33,28 +33,13 @@ Help users manage and track various bills (e.g., water, electricity, service cha
 
 
 1.3 โครงร่างหน้าจอ / Mockup
+![Image](https://github.com/user-attachments/assets/e530cf2e-cc41-4fbf-b2ce-7fbbe4e4f7c9)
 
+![Image](https://github.com/user-attachments/assets/316be5ab-cc56-416b-b6e7-c45fc30b976f)
 
+![Image](https://github.com/user-attachments/assets/05990bbc-06a9-4e7a-bad9-990313897cdb)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Image](https://github.com/user-attachments/assets/cda9bd02-8a83-412d-b72a-299a5507d20a)
 
 
 
@@ -73,12 +58,13 @@ Checklist:
 - [x] Display all bills  
 - [x] Display payment status of bills (Paid / Pending / Unpaid)  
 - [x] Display payment history details  
+
 2.3 ภาพหน้าจอแอป | App Screenshots
 แนบภาพหรือ URL (Attach images or image links):
-- ![Home]()
-- ![Checklist](schedule.png)
-- ![Add Person](reminder.png)
-- ![History](reminder.png)
+- ![Home]![Image](https://github.com/user-attachments/assets/e530cf2e-cc41-4fbf-b2ce-7fbbe4e4f7c9)
+- ![Checklist]![Image](https://github.com/user-attachments/assets/316be5ab-cc56-416b-b6e7-c45fc30b976f)
+- ![Add Person]![Image](https://github.com/user-attachments/assets/05990bbc-06a9-4e7a-bad9-990313897cdb)
+- ![History]![Image](https://github.com/user-attachments/assets/cda9bd02-8a83-412d-b72a-299a5507d20a)
 
 3. การ Build และติดตั้งแอป | Deployment (2 คะแนน / 2 pts)
 3.1 ประเภท Build | Build Type
