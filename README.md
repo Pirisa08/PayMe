@@ -33,14 +33,9 @@ Help users manage and track various bills (e.g., water, electricity, service cha
 
 
 1.3 โครงร่างหน้าจอ / Mockup
-![Image](https://github.com/user-attachments/assets/e530cf2e-cc41-4fbf-b2ce-7fbbe4e4f7c9)
+[Mock Up.pdf](https://github.com/user-attachments/files/19921693/Mock.Up.pdf)
 
-![Image](https://github.com/user-attachments/assets/316be5ab-cc56-416b-b6e7-c45fc30b976f)
-
-![Image](https://github.com/user-attachments/assets/05990bbc-06a9-4e7a-bad9-990313897cdb)
-
-![Image](https://github.com/user-attachments/assets/cda9bd02-8a83-412d-b72a-299a5507d20a)
-
+hments/assets/cda9bd02-8a83-412d-b72a-299a5507d20a)
 
 
 1.4 การไหลของผู้ใช้งาน | User Flow
