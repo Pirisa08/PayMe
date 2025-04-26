@@ -33,7 +33,11 @@ Persona 2:
 
 
 1.3 โครงร่างหน้าจอ / Mockup <br>
-[Mock Up.pdf](https://github.com/user-attachments/files/19921693/Mock.Up.pdf)
+- ![Home]![Image](https://github.com/user-attachments/assets/e530cf2e-cc41-4fbf-b2ce-7fbbe4e4f7c9)
+- ![Checklist]![Image](https://github.com/user-attachments/assets/316be5ab-cc56-416b-b6e7-c45fc30b976f)
+- ![Add Person]![Image](https://github.com/user-attachments/assets/05990bbc-06a9-4e7a-bad9-990313897cdb)
+- ![History]![Image](https://github.com/user-attachments/assets/cda9bd02-8a83-412d-b72a-299a5507d20a)
+
 
 
 
@@ -55,10 +59,7 @@ Checklist:
 
 2.3 ภาพหน้าจอแอป | App Screenshots
 แนบภาพหรือ URL (Attach images or image links):
-- ![Home]![Image](https://github.com/user-attachments/assets/e530cf2e-cc41-4fbf-b2ce-7fbbe4e4f7c9)
-- ![Checklist]![Image](https://github.com/user-attachments/assets/316be5ab-cc56-416b-b6e7-c45fc30b976f)
-- ![Add Person]![Image](https://github.com/user-attachments/assets/05990bbc-06a9-4e7a-bad9-990313897cdb)
-- ![History]![Image](https://github.com/user-attachments/assets/cda9bd02-8a83-412d-b72a-299a5507d20a)
+[Mock Up.pdf](https://github.com/user-attachments/files/19921693/Mock.Up.pdf)
 
 3. การ Build และติดตั้งแอป | Deployment (2 คะแนน / 2 pts)
 3.1 ประเภท Build | Build Type
