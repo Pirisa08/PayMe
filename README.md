@@ -67,12 +67,12 @@ Checklist:
 [x] Android
 3.3 ไฟล์ README และวิธีติดตั้ง | README & Install Guide
 แนบไฟล์หรือคำอธิบายการติดตั้งแอป | Insert steps
-Download the `.apk` file.
+1. Download the `.apk` file.
 2. Open it on an Android device.
 3. Install via File Manager.
 
 4. การสะท้อนผลลัพธ์ | Reflection (2 คะแนน / 2 pts)
-ตัวอย่างหัวข้อ | Suggested points:
+
 - Learned how to use `FlatList` to display data from dummy data sources.  
 - If more time was available, I would have added a feature to store bill information in Firebase and dynamically display statuses based on the database.
 
@@ -89,7 +89,7 @@ Prompt ที่ใช้:
 - ได้โครงสร้างโปรเจกต์ React Native (Expo)โดยใช้ React Navigation แบบ Stack Navigator และแยก Component/Screen
 
 
-y5.2 ใช้ AI ช่วยออกแบบ UI | UI Layout Prompt
+5.2 ใช้ AI ช่วยออกแบบ UI | UI Layout Prompt
 Prompt ที่ใช้:  
 "Design a simple layout for a bill tracking app in React Native"
 "ช่วยเพิ่มฟังชั่นลูกเล่นในหน้าchecklistได้ไหมสามารถว่า Paid pending อะไรประมาณนั้นได้ไหม"
@@ -99,20 +99,15 @@ Prompt ที่ใช้:
 5.3 ใช้ AI ช่วยเขียนโค้ด | Code Writing Prompt
 Prompt ที่ใช้:  
 "React Native code to create a flatlist for displaying bills"
-
 ผลลัพธ์:  
 ได้โค้ดที่ใช้ FlatList ในการแสดงรายการบิลจากข้อมูล dummy และการจัดการกับสถานะของแต่ละบิล
-
-
 5.4 ใช้ AI ช่วย debug | Debug Prompt
 Prompt ที่ใช้:  
 "How to build React Native app and generate ADB for Android?"
 "How to ติดตั้งแอนดรอยสตู"
-
 ผลลัพธ์:  
 - คำแนะนำในการใช้คำสั่ง react-native run-android เพื่อ build และ generate ADB สำหรับการทดสอบ
 - วิธีแก้ไข และบอกวิธีการติดตั้งAndrid Studio
-
 5.5 ใช้ AI ช่วย Deploy | Deployment Prompt
 Prompt ที่ใช้:  
 "How to build React Native app and generate APK for Android?"
