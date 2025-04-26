@@ -1,0 +1,45 @@
+export const bills = [
+  {
+    id: '1',
+    title: 'Water Bill',
+    type: 'Utility',
+    image: '💧',
+    date: '2024-04-25',
+    time: '14:30',
+    totalAmount: 1200,
+    people: [
+      { name: 'Nat', paid: true, paidDate: '2024-04-25 14:35', amount: 600 },
+      { name: 'Fah', paid: false, amount: 600 },
+    ],
+    paidCount: 1,
+  },
+  {
+    id: '2',
+    title: 'Pizza Order',
+    type: 'Food',
+    image: '🍕',
+    date: '2024-04-24',
+    time: '19:15',
+    totalAmount: 800,
+    people: [
+      { name: 'Jay', paid: true, paidDate: '2024-04-24 19:20', amount: 400 },
+      { name: 'Beam', paid: true, paidDate: '2024-04-24 19:25', amount: 400 },
+    ],
+    paidCount: 2,
+  },
+  {
+    id: '3',
+    title: 'Movie Tickets',
+    type: 'Entertainment',
+    image: '🎬',
+    date: '2024-04-23',
+    time: '20:00',
+    totalAmount: 1500,
+    people: [
+      { name: 'Mike', paid: true, paidDate: '2024-04-23 20:05', amount: 500 },
+      { name: 'Sarah', paid: false, amount: 500 },
+      { name: 'John', paid: true, paidDate: '2024-04-23 20:10', amount: 500 },
+    ],
+    paidCount: 2,
+  },
+];
