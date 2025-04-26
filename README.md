@@ -1,22 +1,22 @@
 # PayMe
 ชื่อ - นามสกุล (Full Name): Pirisa Kitichai<br>
 รหัสนักศึกษา (Student ID): 6631503031 <br>
-ชื่อแอป (App Name):PayMe <br>
+ชื่อแอป (App Name): PayMe <br>
 Framework ที่ใช้ (Framework Used): React Native <br>
-ลิงก์ GitHub Repository: [ใส่ลิงก์ที่นี่ | Insert link here] <br>
+ลิงก์ GitHub Repository: [(https://github.com/Pirisa08/PayMe.git)] <br>
 ลิงก์ไฟล์ติดตั้ง (APK/IPA): [(https://expo.dev/accounts/pirisa/projects/PayMe/builds/ae335c1c-6d29-4229-a156-6ad59fbbc625)] <br>
 
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts)
 1.1 ผู้ใช้งานเป้าหมาย | User Personas
 
 Persona 1:  
-- ชื่อ: Nut  
+- ชื่อ: Preaw  
 - อายุ:  20 years 
 - อาชีพ: 2nd-year university student    
 - ความต้องการ:  Wants to manage expenses such as utility bills (water, electricity) and requires a notification system for payment statuses.
 
 Persona 2:  
-- ชื่อ: Fah  
+- ชื่อ: Kai
 - อายุ:  20 years 
 - อาชีพ: 2nd-year university student   
 - ความต้องการ:  Wants to track various bill payments and check payment statuses for financial planning.
@@ -25,17 +25,16 @@ Persona 2:
 
 
 1.2 เป้าหมายของแอป | App Goals
-ตัวอย่าง (Example):
-Help users manage and track various bills (e.g., water, electricity, service charges).
+
+- Help users manage and track various bills (e.g., water, electricity, service charges).
 - Provide a system to display bill payment status as "Paid" or "Pending."
 - Display bill details such as bill name, amount, due date.
 
 
 
-1.3 โครงร่างหน้าจอ / Mockup
+1.3 โครงร่างหน้าจอ / Mockup <br>
 [Mock Up.pdf](https://github.com/user-attachments/files/19921693/Mock.Up.pdf)
 
-hments/assets/cda9bd02-8a83-412d-b72a-299a5507d20a)
 
 
 1.4 การไหลของผู้ใช้งาน | User Flow
@@ -45,8 +44,8 @@ Open App → Bill List → Choose Bill to see the deatail → add person → Pay
 2.1 รายละเอียดการพัฒนา | Development Details
 เครื่องมือที่ใช้ / Tools used:
 - React Native
-- Redux
 - React Navigation
+- Java Script
 
 2.2 ฟังก์ชันที่พัฒนา | Features Implemented
 Checklist:
