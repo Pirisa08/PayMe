@@ -65,7 +65,8 @@ Checklist:
 - [x] Android <br>
 3.3 ไฟล์ README และวิธีติดตั้ง | README & Install Guide 
 แนบไฟล์หรือคำอธิบายการติดตั้งแอป | Insert steps <br>
-![README]
+[README (1).md](https://github.com/user-attachments/files/19929064/README.1.md)<br>
+Install Guide : <br>
 - Download the `.apk` file.
 - Open your File Manager and navigate to the downloaded .apk file.
 - Tap on the file to begin installation
