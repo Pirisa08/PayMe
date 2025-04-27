@@ -10,27 +10,22 @@ Framework ที่ใช้ (Framework Used): React Native <br>
 1.1 ผู้ใช้งานเป้าหมาย | User Personas
 
 Persona 1:  
-- ชื่อ: Preaw  
+- ชื่อ: Aomsin  
 - อายุ:  20 years 
 - อาชีพ: 2nd-year university student    
 - ความต้องการ:  Wants to manage expenses such as utility bills (water, electricity) and requires a notification system for payment statuses.
 
 Persona 2:  
-- ชื่อ: Kai
+- ชื่อ: Lukjun
 - อายุ:  20 years 
 - อาชีพ: 2nd-year university student   
 - ความต้องการ:  Wants to track various bill payments and check payment statuses for financial planning.
-
-
-
 
 1.2 เป้าหมายของแอป | App Goals
 
 - Help users manage and track various bills (e.g., water, electricity, service charges).
 - Provide a system to display bill payment status as "Paid" or "Pending."
 - Display bill details such as bill name, amount, due date.
-
-
 
 1.3 โครงร่างหน้าจอ / Mockup <br>
 - ![Home]![Image](https://github.com/user-attachments/assets/e530cf2e-cc41-4fbf-b2ce-7fbbe4e4f7c9)
@@ -41,10 +36,10 @@ Persona 2:
 
 
 
-1.4 การไหลของผู้ใช้งาน | User Flow
+1.4 การไหลของผู้ใช้งาน | User Flow <br>
 Open App → Bill List → Choose Bill to see the detail → add person → Payment History 
 
-2. การพัฒนาแอป | App Implementation (4 คะแนน / 4 pts)
+2. การพัฒนาแอป | App Implementation (4 คะแนน / 4 pts) <br>
 2.1 รายละเอียดการพัฒนา | Development Details
 เครื่องมือที่ใช้ / Tools used:
 - React Native
@@ -61,34 +56,29 @@ Checklist:
 แนบภาพหรือ URL (Attach images or image links):
 [Mock Up.pdf](https://github.com/user-attachments/files/19921693/Mock.Up.pdf)
 
-3. การ Build และติดตั้งแอป | Deployment (2 คะแนน / 2 pts)
-3.1 ประเภท Build | Build Type
-[x] Debug
-3.2 แพลตฟอร์มที่ทดสอบ | Platform Tested
-[x] Android
-3.3 ไฟล์ README และวิธีติดตั้ง | README & Install Guide
+3. การ Build และติดตั้งแอป | Deployment (2 คะแนน / 2 pts) <br>
+3.1 ประเภท Build | Build Type<br>
+[x] Debug <br>
+3.2 แพลตฟอร์มที่ทดสอบ | Platform Tested <br>
+[x] Android <br>
+3.3 ไฟล์ README และวิธีติดตั้ง | README & Install Guide 
 แนบไฟล์หรือคำอธิบายการติดตั้งแอป | Insert steps
-1. Download the `.apk` file.
-2. Open it on an Android device.
-3. Install via File Manager.
-
-4. การสะท้อนผลลัพธ์ | Reflection (2 คะแนน / 2 pts)
-
+- Download the `.apk` file.
+- Open it on an Android device.
+- Install via File Manager.
+  
+4. การสะท้อนผลลัพธ์ | Reflection (2 คะแนน / 2 pts)<br>
 - Learned how to use `FlatList` to display data from dummy data sources.  
 - If more time was available, I would have added a feature to store bill information in Firebase and dynamically display statuses based on the database.
-
-
-
-5. การใช้ AI ช่วยพัฒนา | AI Assisted Development (Bonus / ใช้ประกอบการพิจารณา)
+  
+5. การใช้ AI ช่วยพัฒนา | AI Assisted Development (Bonus / ใช้ประกอบการพิจารณา)<br>
 5.1 ใช้ AI ช่วยคิดไอเดีย | Idea Generation
 Prompt ที่ใช้:  
 "ช่วยคิดหน่อยได้ไหมสร้างแอพเกี่ยวกับแจ้งเตือนการจ่ายเงินของตัวเราและเพื่อน."
 "ช่วยช่วยสร้างโครงสร้างได้ไหม"
-
 ผลลัพธ์:  
 - ได้ไอเดียแอปจัดการการเงินของตัวเราเองและเพื่อนให้มีประสิทธิภาพ
 - ได้โครงสร้างโปรเจกต์ React Native (Expo)โดยใช้ React Navigation แบบ Stack Navigator และแยก Component/Screen
-
 
 5.2 ใช้ AI ช่วยออกแบบ UI | UI Layout Prompt
 Prompt ที่ใช้:  
