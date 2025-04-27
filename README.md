@@ -45,6 +45,8 @@ Open App → Bill List → Choose Bill to see the detail → add person → Paym
 - React Native
 - React Navigation
 - Java Script
+- Expo go
+- Android Studio
 
 2.2 ฟังก์ชันที่พัฒนา | Features Implemented
 Checklist:
@@ -58,14 +60,17 @@ Checklist:
 
 3. การ Build และติดตั้งแอป | Deployment (2 คะแนน / 2 pts) <br>
 3.1 ประเภท Build | Build Type<br>
-[x] Debug <br>
+- [x] Debug <br>
 3.2 แพลตฟอร์มที่ทดสอบ | Platform Tested <br>
-[x] Android <br>
+- [x] Android <br>
 3.3 ไฟล์ README และวิธีติดตั้ง | README & Install Guide 
-แนบไฟล์หรือคำอธิบายการติดตั้งแอป | Insert steps
+แนบไฟล์หรือคำอธิบายการติดตั้งแอป | Insert steps <br>
+![README]
 - Download the `.apk` file.
-- Open it on an Android device.
-- Install via File Manager.
+- Open your File Manager and navigate to the downloaded .apk file.
+- Tap on the file to begin installation
+- If prompted, allow installation from unknown sources in your device settings.
+- Once installed, open the application from your app drawer.
   
 4. การสะท้อนผลลัพธ์ | Reflection (2 คะแนน / 2 pts)<br>
 - Learned how to use `FlatList` to display data from dummy data sources.  
